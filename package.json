@@ -1,0 +1,10 @@
+{
+  "name": "explore",
+  "version": "0.0.1",
+  "description": "Walks a directory finding files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --trace-warnings --require './test'"
+  },
+  "license": "Unlicense"
+}

@@ -2,7 +2,7 @@
   "name": "explore",
   "version": "0.0.1",
   "description": "Walks a directory finding files",
-  "main": "index.js",
+  "main": "lib/explore.js",
   "scripts": {
     "test": "node --trace-warnings --require './test'"
   },

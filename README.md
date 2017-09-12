@@ -1,5 +1,5 @@
 # Explore
-Walks a folder providing an array of array tuples.
+Walks folder, returns array that contains the absolute filepath for each file found.
 
 # Test
 `npm run test`

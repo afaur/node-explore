@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Walks a directory finding files",
   "main": "lib/explore.js",
+  "engineStrict" : true,
+  "engines": {
+      "node": ">= 8.0.0"
+  },
   "scripts": {
     "test": "node --trace-warnings --require './test'"
   },

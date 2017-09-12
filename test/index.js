@@ -16,7 +16,7 @@
 
   // Print results to stdout
   process.stdout.write(
-    util.inspect(files, { colors: true, depth: 12 })
+    util.inspect(files, { colors: true })
   )
 
   // Exit tests
